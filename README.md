@@ -1,6 +1,19 @@
 # youtube_app
 
-A new Flutter project.
+YouTube App clone UI
+
+## ScreenShots
+<p>
+<img src="./ScreenShots/flutter_01.png" alt="home page"  width="200" />
+<img src="./ScreenShots/flutter_02.png" alt="trending page" width="200" />
+<img src="./ScreenShots/flutter_03.png" alt="subscriptions page" width="200" />
+<img src="./ScreenShots/flutter_04.png" alt="inbox page" width="200" />
+<img src="./ScreenShots/flutter_05.png" alt="library page" width="200" />
+<img src="./ScreenShots/flutter_06.png" alt="video page" width="200" />
+<img src="./ScreenShots/flutter_07.jpeg" alt="home page dark theme" width="200" />
+<img src="./ScreenShots/flutter_08.jpeg" alt="video page dark theme" width="200" />
+</p>
+
 
 ## Getting Started
 
